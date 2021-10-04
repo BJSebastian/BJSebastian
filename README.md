@@ -17,4 +17,4 @@ Freelance web designer plus front-end, back-end and all-ends-in-between web deve
 
 My primary creative areas include web design, interface layout and design, and “Full Stack” web application development. I’m also actively improving my graphic/logo design skills whenever I get the chance.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjsebastian&show_icons=true&count_private=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjsebastian&show_icons=true&count_private=true&theme=gruvbox)
