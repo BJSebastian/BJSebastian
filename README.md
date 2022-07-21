@@ -3,9 +3,9 @@
 ## Some Info
 - 👋 Hi, I’m @BJSebastian
 - 👀 I’m interested in ... web and mobile application design and development
-- 🌱 I’m currently learning ... node.js/express.js/posgresql
+- 🌱 I’m currently working with ... vue.js/node.js/express.js/posgresql
 - 💞️ I’m looking to collaborate on ... projects involving web/mobile/responsive
-- 📫 How to reach me ... email me at bryan.j.sebastian@gmail.com
+- 📫 How to reach me ... email me at bryan.sebastian@hey.com
 
 <!---
 BJSebastian/BJSebastian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
