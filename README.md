@@ -1,4 +1,21 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bryan Sebastian =======================================================================================================================================  Front, back and all-ends-in-between developer ---------------------------------------------  I’m a programmer! If you think that means I write code, you’re wrong. As a programmer, my job is translating ideas into a working computer solution. Beyond coding, this involves a myriad of tools, processes, and communication. My skill as a programmer is measured as the sum of these abilities. While I may specialize on specific technology stacks, I always look at the entire spectrum of programming activities. I need to keep up with this fast-moving field. Remaining static would relegate me to becoming a relic of the past. I take joy seeing people use the products I’ve created. I care about customers and want to make their lives easier. I like being part of a flourishing product and a company that grows around it. There’s no other job I’d rather have. I’m proud to be a programmer.  * 🌍  I'm based in the Chicagoland area * 🧠  I'm learning Swagger * 🤝  I'm open to collaborating on 💪 projects involving web/mobile/responsive
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bryan Sebastian =======================================================================================================================================
+
+Front, back and all-ends-in-between developer
+---------------------------------------------
+
+I’m a programmer!
+
+If you think that means I write code, you’re wrong. As a programmer, my job is translating ideas into a working computer solution. Beyond coding, this involves a myriad of tools, processes, and communication.
+
+My skill as a programmer is measured as the sum of these abilities. While I may specialize on specific technology stacks, I always look at the entire spectrum of programming activities. I need to keep up with this fast-moving field. Remaining static would relegate me to becoming a relic of the past.
+
+I take joy seeing people use the products I’ve created. I care about customers and want to make their lives easier. I like being part of a flourishing product and a company that grows around it.
+
+There’s no other job I’d rather have. I’m proud to be a programmer.
+
+* 🌍 I'm based in the Chicagoland area
+* 🧠 I'm learning Swagger
+* 🤝 I'm open to collaborating on projects involving web/mobile/responsive
 
 ### Skills  
 
@@ -7,4 +24,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Badges
 
 <a href="https://github.com/bjsebastian" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjsebastian&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
