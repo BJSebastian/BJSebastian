@@ -16,5 +16,3 @@ You can click the Preview link to take a look at your changes.
 Freelance web designer plus front-end, back-end and all-ends-in-between web developer living in South Elgin, IL. I'm currently the Principal Programmer at Innova Apps, the company I founded in 2003.
 
 My primary creative areas include web design, interface layout and design, and “Full Stack” web application development. I’m also actively improving my graphic/logo design skills whenever I get the chance.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjsebastian&show_icons=true&count_private=true&theme=gruvbox)
